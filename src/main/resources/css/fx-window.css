@@ -1,0 +1,12 @@
+.close_button {
+    -fx-padding: 2;
+    -fx-background-color: transparent;
+}
+.maximize_button {
+    -fx-padding: 2;
+    -fx-background-color: transparent;
+}
+.minimize_button {
+    -fx-padding: 2;
+    -fx-background-color: transparent;
+}
